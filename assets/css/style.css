@@ -21,10 +21,11 @@ header {
     z-index: 1;
 }
 
-#Top {
+.Top {
     width: 960px;
-    text-align: center;
-    margin-left: 18%;
+    float: center;
+ 
+    margin: 0 auto;
 }
 
 h1 {
