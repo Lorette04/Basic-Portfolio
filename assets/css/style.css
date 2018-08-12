@@ -24,7 +24,6 @@ header {
 .Top {
     width: 960px;
     float: center;
- 
     margin: 0 auto;
 }
 
@@ -46,8 +45,7 @@ ul {
 }
 
 li  {
-    display: inline;
-    float: right;
+     float: right;
 }
 
 li a {
