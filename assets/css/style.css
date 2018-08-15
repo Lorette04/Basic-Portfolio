@@ -21,7 +21,7 @@ header {
     z-index: 1;
 }
 
-.Top {
+.navbar {
     width: 960px;
     float: center;
     margin: 0 auto;
@@ -35,7 +35,7 @@ h1 {
     font-size: 25px;
     background: #4aaaa5;
     color: antiquewhite;
-     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 ul {
